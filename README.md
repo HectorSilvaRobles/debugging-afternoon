@@ -4,7 +4,7 @@
 
 This is an exercise in debugging code. There are three separate projects included that intentionally have bugs in them.  Your goal is to get each of the three projects up and running, with all the functionality intact. 
 
-The project is a basic application that allows you to view the `store` and the `shopping cart`.  You should be able to view products received from the provided URL -- `https://practiceapi.devmountain.com/products/` -- and add them to your shopping cart from the store.  When in the shopping cart, you should be able to see everything that you've added to your cart as well as be able to remove any items from it.
+The project is a basic application that allows you to view the `store` and the `shopping cart`.  You should be able to view products received from the provided URL -- `https:/pw/practiceapi.devmountain.com/products/` -- and add them to your shopping cart from the store.  When in the shopping cart, you should be able to see everything that you've added to your cart as well as be able to remove any items from it.
 
 Pay special attention to your debugging process.  It is a very large part of what developers do and refining that process can make the difference between a decent developer and a great one.
 
